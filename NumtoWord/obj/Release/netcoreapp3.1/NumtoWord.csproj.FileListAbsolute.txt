@@ -1,0 +1,13 @@
+C:\Users\Calvin\Documents\NumToWord\NumtoWord\NumtoWord\bin\Release\netcoreapp3.1\NumtoWord.exe
+C:\Users\Calvin\Documents\NumToWord\NumtoWord\NumtoWord\bin\Release\netcoreapp3.1\NumtoWord.deps.json
+C:\Users\Calvin\Documents\NumToWord\NumtoWord\NumtoWord\bin\Release\netcoreapp3.1\NumtoWord.runtimeconfig.json
+C:\Users\Calvin\Documents\NumToWord\NumtoWord\NumtoWord\bin\Release\netcoreapp3.1\NumtoWord.runtimeconfig.dev.json
+C:\Users\Calvin\Documents\NumToWord\NumtoWord\NumtoWord\bin\Release\netcoreapp3.1\NumtoWord.dll
+C:\Users\Calvin\Documents\NumToWord\NumtoWord\NumtoWord\bin\Release\netcoreapp3.1\NumtoWord.pdb
+C:\Users\Calvin\Documents\NumToWord\NumtoWord\NumtoWord\obj\Release\netcoreapp3.1\NumtoWord.csprojAssemblyReference.cache
+C:\Users\Calvin\Documents\NumToWord\NumtoWord\NumtoWord\obj\Release\netcoreapp3.1\NumtoWord.AssemblyInfoInputs.cache
+C:\Users\Calvin\Documents\NumToWord\NumtoWord\NumtoWord\obj\Release\netcoreapp3.1\NumtoWord.AssemblyInfo.cs
+C:\Users\Calvin\Documents\NumToWord\NumtoWord\NumtoWord\obj\Release\netcoreapp3.1\NumtoWord.csproj.CoreCompileInputs.cache
+C:\Users\Calvin\Documents\NumToWord\NumtoWord\NumtoWord\obj\Release\netcoreapp3.1\NumtoWord.dll
+C:\Users\Calvin\Documents\NumToWord\NumtoWord\NumtoWord\obj\Release\netcoreapp3.1\NumtoWord.pdb
+C:\Users\Calvin\Documents\NumToWord\NumtoWord\NumtoWord\obj\Release\netcoreapp3.1\NumtoWord.genruntimeconfig.cache
